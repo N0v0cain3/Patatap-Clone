@@ -21,7 +21,7 @@ var data = {
 		sound: new Howl({
   		urls: ['sounds/corona.mp3']
 		}),
-		color: '#9b59b6'
+		color: '#9b59bb'
 	},
 		t: {
 		sound: new Howl({
