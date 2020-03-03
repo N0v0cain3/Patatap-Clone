@@ -145,7 +145,7 @@ var data = {
 	},
 	n: {
 		sound: new Howl({
-			urls: ['sounds/zig-zag.mp3']
+			urls: ['/zig-zag.mp3']
 		}),
 		color: '#8e44ad'
 	},
